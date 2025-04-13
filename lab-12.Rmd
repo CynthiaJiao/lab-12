@@ -2,7 +2,7 @@
 title: "Lab 12 - Smoking during pregnancy"
 author: "Cynthia Jiao"
 date: "04/07/2025"
-output: github_document
+output: md_document
 ---
 
 Hey mason, I did this lab on bootstrapping. I think bootstrapping is intuitive to do in r, but my feedback is probably that it will be more helpful if there are more instructions provided on how to do the first question of bootstrapping, because we didn't learn about non-parametric tests in previous stats classes, and I was googling and watching youtube videos to fully grasp the underlying logic of bootstrapping techniques. But once I got through the logics, I find the codes easy and smooth!
